@@ -1047,7 +1047,9 @@
     "criteria": {
       "cooked_porkchop": "2024-12-22 22:15:03 +0000",
       "cooked_beef": "2024-12-22 17:20:09 +0000",
-      "porkchop": "2024-12-22 21:37:49 +0000"
+      "porkchop": "2024-12-22 21:37:49 +0000",
+      "cooked_chicken": "2024-12-22 22:46:18 +0000",
+      "mushroom_stew": "2024-12-22 22:44:45 +0000"
     },
     "done": false
   },
@@ -1543,9 +1545,21 @@
     },
     "done": true
   },
+  "jeg:typhoonee": {
+    "criteria": {
+      "Item": "2024-12-22 22:48:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-22 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-22 22:44:40 +0000"
     },
     "done": true
   },
@@ -1564,6 +1578,36 @@
   "jeg:scrap": {
     "criteria": {
       "Item": "2024-12-22 22:08:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "jeg:soulhunter_mk2": {
+    "criteria": {
+      "Item": "2024-12-22 22:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2024-12-22 22:44:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:45:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-22 22:45:30 +0000"
     },
     "done": true
   },

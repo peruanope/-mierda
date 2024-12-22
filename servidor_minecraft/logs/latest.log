@@ -347,3 +347,49 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [22Dec2024 22:36:32.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/37108, l='ServerLevel[world]', x=417.48, y=162.00, z=415.56] died: mainyorick was slain by kayncer
 [22Dec2024 22:36:35.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by mainyorick
 [22Dec2024 22:36:37.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/37488, l='ServerLevel[world]', x=417.45, y=162.00, z=415.57] died: kayncer was slain by kayncer
+[22Dec2024 22:36:44.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by Infected Villager
+[22Dec2024 22:37:00.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by mainyorick
+[22Dec2024 22:37:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by mainyorick
+[22Dec2024 22:37:07.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by mainyorick
+[22Dec2024 22:37:17.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by mainyorick
+[22Dec2024 22:37:27.920] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/37837, l='ServerLevel[world]', x=400.34, y=163.00, z=404.45] died: mainyorick was slain by kayncer
+[22Dec2024 22:37:32.646] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/38203, l='ServerLevel[world]', x=401.70, y=164.10, z=403.30] died: kayncer was slain by kayncer
+[22Dec2024 22:37:41.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/38254, l='ServerLevel[world]', x=401.67, y=164.00, z=403.30] died: kayncer was slain by kayncer
+[22Dec2024 22:37:53.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/37967, l='ServerLevel[world]', x=401.47, y=164.00, z=403.30] died: mainyorick was slain by kayncer
+[22Dec2024 22:37:57.901] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/38220, l='ServerLevel[world]', x=401.25, y=163.00, z=404.80] died: mainyorick was slain by kayncer
+[22Dec2024 22:38:20.963] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/38368, l='ServerLevel[world]', x=409.20, y=163.00, z=420.64] died: mainyorick was slain by mainyorick
+[22Dec2024 22:38:34.209] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/37116, l='ServerLevel[world]', x=418.15, y=162.00, z=415.70] died: kayncer was slain by kayncer
+[22Dec2024 22:39:10.179] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/38048, l='ServerLevel[world]', x=418.29, y=162.10, z=415.31] died: kayncer was slain by kayncer
+[22Dec2024 22:40:49.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:40:56.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:41:22.589] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:41:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[22Dec2024 22:41:58.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has succumbed to the infection
+[22Dec2024 22:42:33.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was killed trying to hurt Verdathorn
+[22Dec2024 22:42:38.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has succumbed to the infection
+[22Dec2024 22:42:46.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by kayncer
+[22Dec2024 22:42:47.241] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/43078, l='ServerLevel[world]', x=411.12, y=163.56, z=405.33] died: kayncer was slain by kayncer
+[22Dec2024 22:42:49.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by mainyorick
+[22Dec2024 22:42:58.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/43099, l='ServerLevel[world]', x=406.30, y=163.39, z=409.60] died: kayncer was slain by kayncer
+[22Dec2024 22:42:59.565] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/43091, l='ServerLevel[world]', x=405.93, y=163.00, z=408.70] died: mainyorick was slain by mainyorick
+[22Dec2024 22:44:08.283] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/42935, l='ServerLevel[world]', x=328.50, y=87.00, z=425.69] died: kayncer fell from a high place
+[22Dec2024 22:45:08.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was fungi-fied by Verdathorn
+[22Dec2024 22:46:18.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/46199, l='ServerLevel[world]', x=408.93, y=163.00, z=421.60] died: kayncer was slain by kayncer
+[22Dec2024 22:46:31.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
+[22Dec2024 22:46:52.682] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/51605, l='ServerLevel[world]', x=403.50, y=163.67, z=415.07] died: mainyorick was slain by kayncer
+[22Dec2024 22:47:54.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer withered away
+[22Dec2024 22:48:02.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Husk
+[22Dec2024 22:48:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by kayncer
+[22Dec2024 22:48:17.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:48:21.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set mainyorick's game mode to Creative Mode]
+[22Dec2024 22:48:45.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/54971, l='ServerLevel[world]', x=418.82, y=159.00, z=405.39] died: mainyorick was obliterated by a sonically-charged shriek
+[22Dec2024 22:48:45.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/55017, l='ServerLevel[world]', x=420.20, y=158.00, z=405.84] died: kayncer was obliterated by a sonically-charged shriek
+[22Dec2024 22:48:54.607] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/54757, l='ServerLevel[world]', x=419.64, y=158.00, z=405.24] died: kayncer was obliterated by a sonically-charged shriek
+[22Dec2024 22:52:56.839] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:53:18.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -0.1895397556914986,-10.319397588669887,0.5647643059360803
+[22Dec2024 22:55:34.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:55:51.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:56:01.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Portable Storage]
+[22Dec2024 22:56:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Portable Storage]
+[22Dec2024 22:56:28.591] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:56:51.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set mainyorick's game mode to Survival Mode]
