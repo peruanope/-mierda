@@ -779,8 +779,10 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "shrubland": "2024-12-22 04:01:38 +0000",
+      "willow_forest": "2024-12-22 22:33:04 +0000",
       "rocky_meadow": "2024-12-22 17:06:18 +0000",
       "magnolia_highlands": "2024-12-22 17:15:44 +0000",
+      "towering_cliffs": "2024-12-22 22:31:46 +0000",
       "temperate_grove": "2024-12-22 04:02:24 +0000"
     },
     "done": false
@@ -788,8 +790,10 @@
   "regions_unexplored:pioneer": {
     "criteria": {
       "shrubland": "2024-12-22 04:01:38 +0000",
+      "willow_forest": "2024-12-22 22:33:04 +0000",
       "rocky_meadow": "2024-12-22 17:06:18 +0000",
       "magnolia_highlands": "2024-12-22 17:15:44 +0000",
+      "towering_cliffs": "2024-12-22 22:31:46 +0000",
       "temperate_grove": "2024-12-22 04:02:24 +0000"
     },
     "done": false
@@ -994,6 +998,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-22 22:28:55 +0000",
       "bread": "2024-12-22 16:55:48 +0000"
     },
     "done": false
@@ -1856,6 +1861,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2024-12-22 22:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 22:10:08 +0000"
@@ -1871,6 +1882,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 22:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-22 22:14:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/dead_pine_sapling_from_dead_pine_shrub": {
+    "criteria": {
+      "has_dead_pine_shrub": "2024-12-22 22:32:50 +0000"
     },
     "done": true
   },

@@ -306,3 +306,44 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [22Dec2024 22:15:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Not Today, Thank You]
 [22Dec2024 22:15:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was shot by Phayres
 [22Dec2024 22:15:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was shot by Phayres
+[22Dec2024 22:18:23.213] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:23:06.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[22Dec2024 22:23:48.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:23:54.897] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:24:03.346] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:24:19.997] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/21356, l='ServerLevel[world]', x=346.98, y=34.00, z=476.70] died: Helldwin was slain by Skeleton
+[22Dec2024 22:26:55.369] [Thread-1/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/-mierda/servidor_minecraft/config/sporeconfig.toml is not correct. Correcting
+[22Dec2024 22:28:16.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[22Dec2024 22:28:25.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick forgot Infected Pillager was a bioweapon
+[22Dec2024 22:28:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by mainyorick
+[22Dec2024 22:28:48.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:29:28.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by Infected Human
+[22Dec2024 22:29:30.337] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/24429, l='ServerLevel[world]', x=391.50, y=151.75, z=427.30] died: mainyorick was slain by mainyorick
+[22Dec2024 22:29:41.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:29:55.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/24587, l='ServerLevel[world]', x=392.30, y=139.93, z=438.02] died: mainyorick was slain by mainyorick
+[22Dec2024 22:30:28.010] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Hypnotizd'/24973, l='ServerLevel[world]', x=0.08, y=-36.00, z=50.17] died: Hypnotizd was slain by Ashen Blood Beast Patient
+[22Dec2024 22:30:32.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/24974, l='ServerLevel[world]', x=0.40, y=-36.00, z=48.02] died: LoneGuy was slain by Ashen Blood Beast Patient
+[22Dec2024 22:30:46.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by kayncer
+[22Dec2024 22:31:51.755] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[22Dec2024 22:31:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has completed the challenge [The Power of the Sun]
+[22Dec2024 22:32:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:32:27.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[22Dec2024 22:32:49.796] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[22Dec2024 22:32:56.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:33:38.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Human
+[22Dec2024 22:33:58.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:34:30.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[22Dec2024 22:35:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[22Dec2024 22:35:17.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:35:28.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was fungi-fied by Infected Pillager
+[22Dec2024 22:35:33.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[22Dec2024 22:35:43.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was slain by kayncer
+[22Dec2024 22:35:44.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was eaten alive by kayncer
+[22Dec2024 22:35:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[22Dec2024 22:35:56.499] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/33019, l='ServerLevel[world]', x=434.93, y=170.00, z=374.98] died: Mademoiselle2016 was blown up by Creeper
+[22Dec2024 22:36:00.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer forgot mainyorick was a bioweapon
+[22Dec2024 22:36:22.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by Infected Villager
+[22Dec2024 22:36:29.748] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/32990, l='ServerLevel[world]', x=417.70, y=162.10, z=414.85] died: kayncer was slain by kayncer
+[22Dec2024 22:36:32.946] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/37108, l='ServerLevel[world]', x=417.48, y=162.00, z=415.56] died: mainyorick was slain by kayncer
+[22Dec2024 22:36:35.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was eaten alive by mainyorick
+[22Dec2024 22:36:37.928] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['kayncer'/37488, l='ServerLevel[world]', x=417.45, y=162.00, z=415.57] died: kayncer was slain by kayncer

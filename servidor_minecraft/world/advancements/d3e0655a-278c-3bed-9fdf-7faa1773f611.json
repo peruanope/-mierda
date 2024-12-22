@@ -1045,6 +1045,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-22 22:15:03 +0000",
       "cooked_beef": "2024-12-22 17:20:09 +0000",
       "porkchop": "2024-12-22 21:37:49 +0000"
     },
@@ -1539,6 +1540,18 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2024-12-22 21:47:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2024-12-22 22:15:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-22 22:14:41 +0000"
     },
     "done": true
   },
