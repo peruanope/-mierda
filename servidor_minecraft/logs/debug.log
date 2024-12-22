@@ -2211,3 +2211,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [22Dec2024 22:05:14.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/8391, l='ServerLevel[world]', x=286.85, y=24.00, z=388.84] died: Gistique was slain by Church Doctor
 [22Dec2024 22:05:34.348] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/8753, l='ServerLevel[world]', x=293.31, y=-8.00, z=368.89] died: Kraken was slain by Beast Patient
 [22Dec2024 22:05:58.695] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:06:59.770] [Server thread/DEBUG] [mixin/]: Mixing structures.JigsawJunctionAccessor from integrated_api-common.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawJunction
+[22Dec2024 22:07:48.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was fungi-fied by Leaper
+[22Dec2024 22:07:56.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['mainyorick'/10794, l='ServerLevel[world]', x=340.36, y=34.00, z=457.96] died: mainyorick was slain by Skeleton
+[22Dec2024 22:07:57.699] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:07:57.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:08:02.207] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/10931, l='ServerLevel[world]', x=27.15, y=-36.36, z=-3.86] died: Technoblade was blown up by Creeper
+[22Dec2024 22:08:08.784] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:08:09.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported mainyorick to kayncer]
+[22Dec2024 22:08:11.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Technoblade'/10907, l='ServerLevel[world]', x=294.04, y=-47.75, z=466.32] died: Technoblade was slain by Skeleton
+[22Dec2024 22:10:29.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[22Dec2024 22:10:41.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[22Dec2024 22:10:50.690] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6352ms or 127 ticks behind
+[22Dec2024 22:11:37.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:12:01.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/15532, l='ServerLevel[world]', x=123.28, y=3.00, z=684.82] died: Nova69 was slain by Beast Patient
+[22Dec2024 22:12:09.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
+[22Dec2024 22:12:38.845] [Server thread/DEBUG] [mixin/]: Mixing entities.MerchantOfferAccessor from integrated_api-common.mixins.json into net.minecraft.world.item.trading.MerchantOffer
+[22Dec2024 22:12:44.874] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[22Dec2024 22:13:05.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
+[22Dec2024 22:13:06.118] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 22:13:06.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 22:13:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was shot by Phayres
+[22Dec2024 22:13:31.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
+[22Dec2024 22:14:21.061] [Server thread/DEBUG] [portb.transformerlib.TransformerLib/]: Transforming net/minecraft/world/CompoundContainer (target of net/minecraft/world/Container)
+[22Dec2024 22:14:41.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Sweet Dreams]
+[22Dec2024 22:14:56.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Sweet Dreams]
+[22Dec2024 22:15:21.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Not Today, Thank You]
+[22Dec2024 22:15:36.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer was shot by Phayres
+[22Dec2024 22:15:38.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was shot by Phayres
