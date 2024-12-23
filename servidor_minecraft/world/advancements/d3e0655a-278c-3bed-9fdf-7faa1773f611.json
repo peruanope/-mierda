@@ -2684,5 +2684,23 @@
     },
     "done": false
   },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-12-23 19:06:27 +0000"
+    },
+    "done": true
+  },
+  "jeg:repeating_shotgun": {
+    "criteria": {
+      "Item": "2024-12-23 19:06:23 +0000"
+    },
+    "done": true
+  },
+  "jeg:service_rifle": {
+    "criteria": {
+      "Item": "2024-12-23 19:10:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
