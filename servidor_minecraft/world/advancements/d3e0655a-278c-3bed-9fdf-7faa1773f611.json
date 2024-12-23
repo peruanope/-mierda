@@ -25,6 +25,7 @@
       "minecraft:river": "2024-12-22 04:04:44 +0000",
       "minecraft:swamp": "2024-12-22 03:56:13 +0000",
       "minecraft:forest": "2024-12-22 03:58:05 +0000",
+      "minecraft:desert": "2024-12-23 19:37:01 +0000",
       "minecraft:windswept_forest": "2024-12-22 04:01:33 +0000",
       "minecraft:ocean": "2024-12-23 02:58:53 +0000"
     },
@@ -600,6 +601,7 @@
       "minecraft:spider": "2024-12-22 04:00:37 +0000",
       "minecraft:creeper": "2024-12-23 03:07:22 +0000",
       "minecraft:wither_skeleton": "2024-12-23 04:31:40 +0000",
+      "minecraft:cave_spider": "2024-12-23 19:47:15 +0000",
       "minecraft:enderman": "2024-12-23 19:03:50 +0000",
       "minecraft:zombie": "2024-12-22 21:45:40 +0000"
     },
@@ -620,7 +622,9 @@
       "grassy_beach": "2024-12-23 02:58:45 +0000",
       "rocky_meadow": "2024-12-22 22:05:45 +0000",
       "mycotoxic_undergrowth": "2024-12-23 04:32:09 +0000",
+      "tropical_river": "2024-12-23 19:40:42 +0000",
       "magnolia_highlands": "2024-12-23 19:04:21 +0000",
+      "outback": "2024-12-23 19:40:38 +0000",
       "glistering_meadow": "2024-12-23 04:34:07 +0000",
       "blackstone_basin": "2024-12-23 04:28:29 +0000",
       "towering_cliffs": "2024-12-23 02:03:12 +0000",
@@ -635,7 +639,9 @@
       "willow_forest": "2024-12-23 02:11:04 +0000",
       "grassy_beach": "2024-12-23 02:58:45 +0000",
       "rocky_meadow": "2024-12-22 22:05:45 +0000",
+      "tropical_river": "2024-12-23 19:40:42 +0000",
       "magnolia_highlands": "2024-12-23 19:04:21 +0000",
+      "outback": "2024-12-23 19:40:38 +0000",
       "towering_cliffs": "2024-12-23 02:03:12 +0000",
       "temperate_grove": "2024-12-22 04:02:32 +0000"
     },
@@ -2684,21 +2690,123 @@
     },
     "done": false
   },
-  "jeg:infantry_rifle": {
-    "criteria": {
-      "Item": "2024-12-23 19:06:27 +0000"
-    },
-    "done": true
-  },
   "jeg:repeating_shotgun": {
     "criteria": {
       "Item": "2024-12-23 19:06:23 +0000"
     },
     "done": true
   },
+  "jeg:infantry_rifle": {
+    "criteria": {
+      "Item": "2024-12-23 19:06:27 +0000"
+    },
+    "done": true
+  },
   "jeg:service_rifle": {
     "criteria": {
       "Item": "2024-12-23 19:10:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-23 19:51:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-23 19:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 19:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 19:46:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-23 19:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2024-12-23 19:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2024-12-23 19:46:00 +0000"
     },
     "done": true
   },
