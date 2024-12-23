@@ -9,8 +9,7 @@
 	#Default minecraft:is_overworld
 	"Dictates in what biome the infected spawn" = ["minecraft:is_overworld"]
 	#Default 40
-	MobCap = 1000
-
+	MobCap = 35
 	#Default 3
 	"Days before infected start spawning" = 3
 
@@ -124,9 +123,9 @@
 		"Infected Villager Evolutions" = ["spore:slasher", "spore:leaper", "spore:spitter"]
 		"Infected Pillager Evolutions" = ["spore:howler", "spore:stalker", "spore:brute"]
 		#Default 300
-		"Evolution Timer in seconds" = 300
+		"Evolution Timer in seconds" = 10
 		#Default 7
-		"Minimum amount of kills to start the hyper evolution" = 7
+		"Minimum amount of kills to start the hyper evolution" = 1
 		"Infected Witch Evolutions" = ["spore:volatile"]
 		"Infected Husk Evolutions" = ["spore:thorn", "spore:jagd", "spore:scavenger"]
 		"Infected Drowned Evolutions" = ["spore:bloater"]
@@ -983,7 +982,7 @@
 		Durability = 800
 		#Default 8
 		#Range: > 1
-		Damage = 8
+		Damage = 25
 
 	["Weapons and Tools OwO".Pickaxe]
 		#Default 1500
@@ -1006,7 +1005,7 @@
 		Durability = 800
 		#Default 10
 		#Range: > 1
-		Damage = 10
+		Damage = 25
 
 	["Weapons and Tools OwO".Maul]
 		#Default 2500
@@ -1027,7 +1026,7 @@
 		Durability = 1500
 		#Default 15
 		#Range: > 1
-		Damage = 15
+		Damage = 20
 
 	["Weapons and Tools OwO".Knife]
 		#Default 400
