@@ -2886,5 +2886,29 @@
     },
     "done": true
   },
+  "jeg:vertical_grip": {
+    "criteria": {
+      "Item": "2024-12-24 23:42:31 +0000"
+    },
+    "done": true
+  },
+  "jeg:tactical_stock": {
+    "criteria": {
+      "Item": "2024-12-24 23:42:47 +0000"
+    },
+    "done": true
+  },
+  "jeg:holographic_sight": {
+    "criteria": {
+      "Item": "2024-12-24 23:42:43 +0000"
+    },
+    "done": true
+  },
+  "jeg:extended_mag": {
+    "criteria": {
+      "Item": "2024-12-24 23:42:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
