@@ -9,16 +9,16 @@
 	#Default minecraft:is_overworld
 	"Dictates in what biome the infected spawn" = ["minecraft:is_overworld"]
 	#Default 40
-	MobCap = 100
+	MobCap = 150
 	#Default 3
 	"Days before infected start spawning" = 3
 
 ["Global Variables"]
-	"Global Health Modifier" = 1.0
+	"Global Health Modifier" = 4.0
 	#Default true
 	"Should the infected be weak to cold?" = true
 	"Hunger in seconds" = 300
-	"Global Armor Modifier" = 1.0
+	"Global Armor Modifier" = 2.0
 	#Default true
 	"Should some infected have higher thinking such as opening doors or trying to break certain blocks?" = true
 	#Default true
@@ -981,8 +981,8 @@
 		#Default 800
 		Durability = 800
 		#Default 8
-		#Range: > 1
-		Damage = 8
+		#Range: > 5
+		Damage = 16
 
 	["Weapons and Tools OwO".Pickaxe]
 		#Default 1500
