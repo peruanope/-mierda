@@ -2862,12 +2862,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2024-12-23 19:52:57 +0000"
-    },
-    "done": true
-  },
   "hopo:minecraft/adventure/all_mineshaft": {
     "criteria": {
       "locate_vanilla_mineshaft": "2024-12-23 19:45:46 +0000"
@@ -2883,6 +2877,12 @@
   "jeg:repeating_shotgun": {
     "criteria": {
       "Item": "2024-12-23 19:49:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2024-12-23 19:52:57 +0000"
     },
     "done": true
   },

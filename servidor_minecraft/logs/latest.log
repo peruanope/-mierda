@@ -1,59 +1,59 @@
-[23Dec2024 19:32:21.717] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[23Dec2024 19:32:21.739] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[23Dec2024 19:32:26.576] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[23Dec2024 19:32:27.471] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/-mierda/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[23Dec2024 19:32:28.502] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 19:32:28.512] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 19:32:28.522] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 19:32:28.524] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[23Dec2024 19:32:29.464] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
-[23Dec2024 19:32:36.168] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[23Dec2024 19:32:36.375] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[23Dec2024 19:32:36.585] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Dec2024 19:32:36.891] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[23Dec2024 19:32:38.196] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
-[23Dec2024 19:32:38.224] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
-[23Dec2024 19:32:38.227] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
-[23Dec2024 19:32:38.233] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
-[23Dec2024 19:32:38.235] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
-[23Dec2024 19:32:38.242] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
-[23Dec2024 19:32:38.248] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
-[23Dec2024 19:32:38.253] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
-[23Dec2024 19:33:10.887] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
-[23Dec2024 19:33:10.925] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
-[23Dec2024 19:33:11.661] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[23Dec2024 19:33:12.736] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[23Dec2024 19:33:12.736] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[23Dec2024 19:33:17.018] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
-[23Dec2024 19:33:17.031] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
-[23Dec2024 19:33:17.534] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[23Dec2024 19:33:17.548] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[23Dec2024 19:33:18.309] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
-[23Dec2024 19:33:19.299] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[23Dec2024 19:33:19.300] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[23Dec2024 19:33:19.301] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
-[23Dec2024 19:33:19.301] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
-[23Dec2024 19:33:19.302] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
-[23Dec2024 19:33:19.465] [main/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
-[23Dec2024 19:33:19.544] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
-[23Dec2024 19:33:19.546] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
-[23Dec2024 19:33:19.547] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
-[23Dec2024 19:33:19.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
-[23Dec2024 19:33:19.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Starting version check at https://assets.melanx.de/updates/morevanillaarmor.json
-[23Dec2024 19:33:19.548] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
-[23Dec2024 19:33:19.581] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 3 for type OVERWORLD
-[23Dec2024 19:33:19.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Found status: UP_TO_DATE Current: 1.20.1-5.1.2 Target: null
-[23Dec2024 19:33:19.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[23Dec2024 19:33:20.389] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
-[23Dec2024 19:33:20.390] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[23Dec2024 19:33:20.585] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[23Dec2024 19:33:26.619] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[23Dec2024 19:33:30.466] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-mierda/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
-[23Dec2024 19:33:30.468] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-mierda/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
-[23Dec2024 19:33:31.120] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
-[23Dec2024 19:33:38.608] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[23Dec2024 19:33:38.884] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
-[23Dec2024 19:33:41.237] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
+[24Dec2024 22:18:56.683] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
+[24Dec2024 22:18:56.695] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[24Dec2024 22:18:57.792] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[24Dec2024 22:18:57.868] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/-mierda/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[24Dec2024 22:18:58.295] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 22:18:58.305] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 22:18:58.308] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 22:18:58.313] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/-mierda/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[24Dec2024 22:18:58.733] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 8 dependencies adding them to mods collection
+[24Dec2024 22:19:02.103] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[24Dec2024 22:19:02.230] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[24Dec2024 22:19:02.310] [main/WARN] [mixin/]: Reference map 'trashslot.refmap.json' for trashslot.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Dec2024 22:19:02.510] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[24Dec2024 22:19:03.287] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[24Dec2024 22:19:03.290] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/gregtechmodernce.xml
+[24Dec2024 22:19:03.294] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[24Dec2024 22:19:03.295] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[24Dec2024 22:19:03.298] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[24Dec2024 22:19:03.300] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[24Dec2024 22:19:03.305] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[24Dec2024 22:19:03.307] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[24Dec2024 22:19:16.781] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialize mod Library Ferret
+[24Dec2024 22:19:16.795] [modloading-worker-0/INFO] [com.jtorleonstudios.libraryferret.LibraryFerret/]: Initialized mod Library Ferret
+[24Dec2024 22:19:17.271] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[24Dec2024 22:19:17.983] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[24Dec2024 22:19:17.990] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[24Dec2024 22:19:21.659] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.Harbinger.Spore.Sentities.BaseEntities.Infected from class com.Harbinger.Spore.Sentities.BaseEntities.Hyper
+[24Dec2024 22:19:21.664] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.animal.sniffer.Sniffer from class com.mysticsbiomes.common.entity.animal.SeaOtter
+[24Dec2024 22:19:21.943] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[24Dec2024 22:19:21.956] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[24Dec2024 22:19:22.524] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Starting version check at https://api.modrinth.com/updates/bZgeDzN8/forge_updates.json
+[24Dec2024 22:19:23.034] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[24Dec2024 22:19:23.034] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[24Dec2024 22:19:23.035] [main/INFO] [terrablender/]: Registered region regions_unexplored:primary to index 1 for type OVERWORLD
+[24Dec2024 22:19:23.035] [main/INFO] [terrablender/]: Registered region regions_unexplored:secondary to index 2 for type OVERWORLD
+[24Dec2024 22:19:23.035] [main/INFO] [terrablender/]: Registered region regions_unexplored:nether to index 1 for type NETHER
+[24Dec2024 22:19:23.123] [main/INFO] [jeg/]: Registered the following Factions: [night_of_the_undead|1|minecraft:zombie,minecraft:zombie_villager,minecraft:husk|jeg:custom_smg,jeg:waterpipe_shotgun|jeg:revolver|jeg:double_barrel_shotgun, the_rattlers|2|minecraft:skeleton,minecraft:stray|jeg:custom_smg|jeg:semi_auto_rifle|jeg:bolt_action_rifle, nosy_business|3|minecraft:pillager,minecraft:vindicator|jeg:pump_shotgun|jeg:semi_auto_rifle,jeg:assault_rifle|jeg:repeating_shotgun,jeg:service_rifle, bad_piggies|2|minecraft:piglin,minecraft:piglin_brute|jeg:double_barrel_shotgun,jeg:waterpipe_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:hollenfire_mk2, hell_hogs|3|minecraft:zombified_piglin,minecraft:wither_skeleton|jeg:custom_smg,jeg:waterpipe_shotgun,jeg:double_barrel_shotgun|jeg:assault_rifle,jeg:semi_auto_rifle|jeg:soulhunter_mk2, lost_souls|3|jeg:ghoul|jeg:waterpipe_shotgun,jeg:revolver|jeg:custom_smg|jeg:holy_shotgun,jeg:blossom_rifle]
+[24Dec2024 22:19:23.189] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:aiming for minecraft:player
+[24Dec2024 22:19:23.190] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:reloading for minecraft:player
+[24Dec2024 22:19:23.191] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:shooting for minecraft:player
+[24Dec2024 22:19:23.192] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key jeg:burst_count for minecraft:player
+[24Dec2024 22:19:23.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_stellarity] Found status: OUTDATED Current: 2.0d Target: 2.0e
+[24Dec2024 22:19:23.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Starting version check at https://assets.melanx.de/updates/morevanillaarmor.json
+[24Dec2024 22:19:23.249] [main/INFO] [terrablender/]: Registered region mysticsbiomes:overworld_provider to index 3 for type OVERWORLD
+[24Dec2024 22:19:23.511] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [morevanillaarmor] Found status: UP_TO_DATE Current: 1.20.1-5.1.2 Target: null
+[24Dec2024 22:19:23.512] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[24Dec2024 22:19:24.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[24Dec2024 22:19:24.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[24Dec2024 22:19:24.278] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[24Dec2024 22:19:27.763] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[24Dec2024 22:19:30.131] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-mierda/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/assets/.mcassetsroot' uses unexpected schema
+[24Dec2024 22:19:30.137] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/-mierda/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23157!/data/.mcassetsroot' uses unexpected schema
+[24Dec2024 22:19:30.551] [main/ERROR] [net.minecraft.Util/]: Invalid path in pack: fokastudio:worldgen/biome/README.md, ignoring
+[24Dec2024 22:19:35.081] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[24Dec2024 22:19:35.333] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag integrated_api:collections/any_taiga as it is missing following references: #repurposed_structures:collections/taigas (from integrated_api-1.5.1+1.20.1-forge.jar)
+[24Dec2024 22:19:38.296] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:crushing/amethyst_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -80,7 +80,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Dec2024 19:33:41.260] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
+[24Dec2024 22:19:38.345] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:milling/amethyst_dust
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -107,7 +107,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Dec2024 19:33:41.306] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
+[24Dec2024 22:19:38.377] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe farmersdelight:organic_compost_from_body_parts
 com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at net.minecraft.world.item.crafting.ShapedRecipe.m_151280_(ShapedRecipe.java:292) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -143,7 +143,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:straw'
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Dec2024 19:33:41.359] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
+[24Dec2024 22:19:38.413] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:pressing/compound_plate
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:pressing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -170,7 +170,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Dec2024 19:33:41.369] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
+[24Dec2024 22:19:38.423] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe create:mixing/compound
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
 	at net.minecraft.world.item.crafting.RecipeManager.m_220253_(RecipeManager.java:170) ~[server-1.20.1-20230612.114412-srg.jar%23157!/:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -197,236 +197,147 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[23Dec2024 19:33:41.400] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
-[23Dec2024 19:33:41.749] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2531 advancements
-[23Dec2024 19:33:43.449] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[23Dec2024 19:33:43.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[23Dec2024 19:33:43.450] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[23Dec2024 19:33:43.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[23Dec2024 19:33:43.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[23Dec2024 19:33:43.778] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[23Dec2024 19:33:43.894] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23Dec2024 19:33:43.895] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[23Dec2024 19:33:43.896] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23Dec2024 19:33:43.897] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[23Dec2024 19:33:44.286] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
-[23Dec2024 19:33:44.298] [Server thread/INFO] [Framework/]: Loading server configs...
-[23Dec2024 19:33:44.299] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
-[23Dec2024 19:33:45.054] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[23Dec2024 19:33:45.055] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[23Dec2024 19:33:45.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[23Dec2024 19:33:55.140] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
-[23Dec2024 19:33:55.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[23Dec2024 19:34:05.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.329] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.330] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.331] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.341] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.346] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.348] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.350] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.354] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.356] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.358] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.360] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.363] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.365] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.368] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.369] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.371] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.374] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:05.643] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:06.143] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[23Dec2024 19:34:07.053] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 11910 ms
-[23Dec2024 19:34:07.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.131s)! For help, type "help"
-[23Dec2024 19:34:07.130] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[23Dec2024 19:34:09.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2488ms or 49 ticks behind
-[23Dec2024 19:36:24.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/100.98.214.66:62169] logged in with entity id 194 at (-3960.49797146771, 66.0, -1978.0957570412315)
-[23Dec2024 19:36:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[23Dec2024 19:36:28.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3703ms or 74 ticks behind
-[23Dec2024 19:36:48.054] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[23Dec2024 19:37:05.299] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2251ms or 45 ticks behind
-[23Dec2024 19:37:56.336] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 19:39:05.442] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/100.73.159.42:63568] logged in with entity id 2696 at (-3964.1732628482773, 67.00133597911214, -1970.9378723705538)
-[23Dec2024 19:39:05.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
-[23Dec2024 19:39:09.596] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
-[23Dec2024 19:39:17.328] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/2713, l='ServerLevel[world]', x=-3919.82, y=-34.00, z=-2017.83] died: The_Harbinger69 was slain by Beast Patient
-[23Dec2024 19:39:19.692] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/2712, l='ServerLevel[world]', x=-3918.96, y=-34.00, z=-2018.24] died: LoneGuy was slain by Beast Patient
-[23Dec2024 19:39:39.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
-[23Dec2024 19:39:46.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[23Dec2024 19:40:34.551] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3003ms or 60 ticks behind
-[23Dec2024 19:40:34.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! 4.282653621871759,-2.8378585789730124,-8.864716668222172
-[23Dec2024 19:41:02.491] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 120
-[23Dec2024 19:41:02.495] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 111
-[23Dec2024 19:41:02.578] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 143
-[23Dec2024 19:41:02.587] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
-[23Dec2024 19:41:02.594] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 128
-[23Dec2024 19:41:02.600] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 122
-[23Dec2024 19:41:02.605] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 117
-[23Dec2024 19:41:02.672] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 146
-[23Dec2024 19:41:02.677] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 141
-[23Dec2024 19:41:02.680] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 137
-[23Dec2024 19:41:02.682] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
-[23Dec2024 19:41:02.685] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 132
-[23Dec2024 19:41:02.687] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 131
-[23Dec2024 19:41:02.693] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 125
-[23Dec2024 19:41:02.695] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 123
-[23Dec2024 19:41:06.687] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 17139ms or 342 ticks behind
-[23Dec2024 19:41:11.019] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mad_Dog'/1556, l='ServerLevel[world]', x=-3986.73, y=74.00, z=-2002.85] died: Mad_Dog burned to death
-[23Dec2024 19:42:13.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
-[23Dec2024 19:43:14.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[23Dec2024 19:43:19.837] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 143
-[23Dec2024 19:43:19.840] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 140
-[23Dec2024 19:43:19.842] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 138
-[23Dec2024 19:43:19.854] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 126
-[23Dec2024 19:43:19.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -8.3517449626911,-0.7967356006686925,-5.953855116714294
-[23Dec2024 19:43:19.864] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 116
-[23Dec2024 19:43:35.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5203ms or 104 ticks behind
-[23Dec2024 19:44:24.773] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 84
-[23Dec2024 19:44:29.454] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[23Dec2024 19:44:46.332] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 148
-[23Dec2024 19:44:51.315] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
-[23Dec2024 19:44:51.401] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 140
-[23Dec2024 19:44:51.404] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 137
-[23Dec2024 19:44:51.406] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
-[23Dec2024 19:44:51.419] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 123
-[23Dec2024 19:44:51.422] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 120
-[23Dec2024 19:44:51.424] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 117
-[23Dec2024 19:44:51.428] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 114
-[23Dec2024 19:44:51.431] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 111
-[23Dec2024 19:44:55.146] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 134
-[23Dec2024 19:44:55.155] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 125
-[23Dec2024 19:44:55.163] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 117
-[23Dec2024 19:44:55.169] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 110
-[23Dec2024 19:44:55.303] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 135
-[23Dec2024 19:44:55.312] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 126
-[23Dec2024 19:44:55.317] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 120
-[23Dec2024 19:44:55.321] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 117
-[23Dec2024 19:44:55.372] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 145
-[23Dec2024 19:44:55.375] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 142
-[23Dec2024 19:44:55.378] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 140
-[23Dec2024 19:44:55.381] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 136
-[23Dec2024 19:44:55.398] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 119
-[23Dec2024 19:45:01.906] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 125
-[23Dec2024 19:45:01.908] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 123
-[23Dec2024 19:45:01.910] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 121
-[23Dec2024 19:45:01.913] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 118
-[23Dec2024 19:45:13.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6963ms or 139 ticks behind
-[23Dec2024 19:45:20.195] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 19:45:24.703] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 87
-[23Dec2024 19:45:31.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2925ms or 58 ticks behind
-[23Dec2024 19:45:39.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
-[23Dec2024 19:45:51.170] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 139
-[23Dec2024 19:45:55.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
-[23Dec2024 19:46:28.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[23Dec2024 19:46:45.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[23Dec2024 19:47:02.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[23Dec2024 19:47:07.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
-[23Dec2024 19:47:15.144] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 19:47:21.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3256ms or 65 ticks behind
-[23Dec2024 19:47:30.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[23Dec2024 19:47:31.697] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['That_Insane_Guy'/10449, l='ServerLevel[world]', x=-3899.54, y=-28.00, z=-2242.93] died: That_Insane_Guy was slain by Beast Patient
-[23Dec2024 19:47:38.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2200ms or 44 ticks behind
-[23Dec2024 19:47:55.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[23Dec2024 19:48:06.636] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 139
-[23Dec2024 19:48:13.959] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3261ms or 65 ticks behind
-[23Dec2024 19:48:33.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4158ms or 83 ticks behind
-[23Dec2024 19:48:48.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was doomed to fall by Skeleton
-[23Dec2024 19:48:53.893] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5796ms or 115 ticks behind
-[23Dec2024 19:49:06.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
-[23Dec2024 19:49:16.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -8.3224935374501,5.928767828757357,-1.0899588409224634
-[23Dec2024 19:49:21.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13056ms or 261 ticks behind
-[23Dec2024 19:49:35.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[23Dec2024 19:49:49.892] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12994ms or 259 ticks behind
-[23Dec2024 19:50:00.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
-[23Dec2024 19:50:12.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[23Dec2024 19:50:17.915] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13068ms or 261 ticks behind
-[23Dec2024 19:50:27.375] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/12670, l='ServerLevel[world]', x=-154.33, y=123.00, z=625.60] died: Gistique was slain by Church Doctor
-[23Dec2024 19:50:31.229] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/12671, l='ServerLevel[world]', x=-151.25, y=123.00, z=625.44] died: bartsek009  was slain by Church Doctor
-[23Dec2024 19:50:44.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
-[23Dec2024 19:50:46.973] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14076ms or 281 ticks behind
-[23Dec2024 19:50:52.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Spectator Mode]
-[23Dec2024 19:51:15.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13715ms or 274 ticks behind
-[23Dec2024 19:51:21.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -3.1298631141662554,4.500000178813934,-8.559963045471022
-[23Dec2024 19:51:23.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! -5.959984708008051,4.872962125533633,6.652129332392178
-[23Dec2024 19:51:28.122] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 19:51:28.126] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 19:51:28.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Nightmare Fuel]
-[23Dec2024 19:51:28.878] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 125
-[23Dec2024 19:51:29.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Survival Mode]
-[23Dec2024 19:51:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
-[23Dec2024 19:51:31.052] [Server thread/WARN] [jeg/]: literal{mainyorick}(d3e0655a-278c-3bed-9fdf-7faa1773f611) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 149
-[23Dec2024 19:51:48.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Teleported kayncer to mainyorick]
-[23Dec2024 19:51:57.251] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26604ms or 532 ticks behind
-[23Dec2024 19:52:13.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has reached the goal [A Piece of Otherworld]
-[23Dec2024 19:52:21.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9345ms or 186 ticks behind
-[23Dec2024 19:52:53.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -2.3408779011179632,-2.0,9.56147699077792
-[23Dec2024 19:52:57.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer has made the advancement [Nightmare Fuel]
-[23Dec2024 19:53:02.899] [Server thread/WARN] [jeg/]: literal{kayncer}(baa6aab8-8124-3438-b424-e4761769f4f1) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 121
-[23Dec2024 19:53:09.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32573ms or 651 ticks behind
-[23Dec2024 19:53:30.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick has made the advancement [Hot Stuff]
-[23Dec2024 19:53:41.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick tried to swim in lava to escape Bone Serpent
-[23Dec2024 19:54:09.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 45227ms or 904 ticks behind
-[23Dec2024 19:54:38.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14390ms or 287 ticks behind
-[23Dec2024 19:55:04.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10507ms or 210 ticks behind
-[23Dec2024 19:55:29.929] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10781ms or 215 ticks behind
-[23Dec2024 19:55:56.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11708ms or 234 ticks behind
-[23Dec2024 19:56:00.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick was taken down by kayncer
-[23Dec2024 19:56:28.048] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16450ms or 329 ticks behind
-[23Dec2024 19:56:34.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
-[23Dec2024 19:56:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
-[23Dec2024 19:56:54.000] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10952ms or 219 ticks behind
-[23Dec2024 19:57:09.595] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/100.98.214.66:62209] logged in with entity id 17726 at (-107.70273103640234, 186.0, 716.1253645736227)
-[23Dec2024 19:57:09.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[23Dec2024 19:57:22.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13351ms or 267 ticks behind
-[23Dec2024 19:57:39.875] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
-[23Dec2024 19:57:39.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
-[23Dec2024 19:57:47.078] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9730ms or 194 ticks behind
-[23Dec2024 19:58:11.255] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9208ms or 184 ticks behind
-[23Dec2024 19:58:24.343] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30d3f392[id=<null>,name=mainyorick,properties={},legacy=false] (/100.98.214.66:62214) lost connection: Disconnected
-[23Dec2024 19:58:29.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/100.98.214.66:62218] logged in with entity id 17911 at (-108.0910539465612, 186.0, 715.9401501470818)
-[23Dec2024 19:58:29.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[23Dec2024 19:58:38.003] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11755ms or 235 ticks behind
-[23Dec2024 19:59:01.528] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
-[23Dec2024 19:59:01.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
-[23Dec2024 19:59:03.047] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10050ms or 201 ticks behind
-[23Dec2024 19:59:15.771] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/100.98.214.66:62221] logged in with entity id 18084 at (-108.0910539465612, 186.0, 715.9401501470818)
-[23Dec2024 19:59:15.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[23Dec2024 19:59:31.749] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13701ms or 274 ticks behind
-[23Dec2024 19:59:46.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Timed out
-[23Dec2024 19:59:46.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
-[23Dec2024 19:59:59.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12535ms or 250 ticks behind
-[23Dec2024 20:00:23.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9634ms or 192 ticks behind
-[23Dec2024 20:00:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer fell from a high place
-[23Dec2024 20:00:53.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14430ms or 288 ticks behind
-[23Dec2024 20:01:22.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer lost connection: Disconnected
-[23Dec2024 20:01:22.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer left the game
-[23Dec2024 20:01:29.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 21066ms or 421 ticks behind
-[23Dec2024 20:01:34.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mainyorick[/100.98.214.66:62241] logged in with entity id 18991 at (-108.0910539465612, 186.0, 715.9401501470818)
-[23Dec2024 20:01:34.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick joined the game
-[23Dec2024 20:01:59.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14865ms or 297 ticks behind
-[23Dec2024 20:02:17.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made mainyorick a server operator
-[23Dec2024 20:02:51.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 37277ms or 745 ticks behind
-[23Dec2024 20:02:57.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Gave 1 [Infected Armads] to mainyorick]
-[23Dec2024 20:03:15.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Spectator Mode]
-[23Dec2024 20:03:17.025] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10627ms or 212 ticks behind
-[23Dec2024 20:03:42.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick moved too quickly! -9.98256193143716,0.0,-0.9346874759615957
-[23Dec2024 20:04:04.845] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 32847ms or 656 ticks behind
-[23Dec2024 20:04:17.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Creative Mode]
-[23Dec2024 20:04:26.630] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6832ms or 136 ticks behind
-[23Dec2024 20:04:48.952] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7354ms or 147 ticks behind
-[23Dec2024 20:04:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mainyorick: Set own game mode to Survival Mode]
-[23Dec2024 20:05:11.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7451ms or 149 ticks behind
-[23Dec2024 20:05:32.976] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6579ms or 131 ticks behind
-[23Dec2024 20:05:55.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7849ms or 156 ticks behind
-[23Dec2024 20:06:18.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7627ms or 152 ticks behind
-[23Dec2024 20:06:39.699] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
-[23Dec2024 20:07:01.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6862ms or 137 ticks behind
-[23Dec2024 20:07:16.402] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
-[23Dec2024 20:07:24.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7931ms or 158 ticks behind
-[23Dec2024 20:07:45.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5969ms or 119 ticks behind
-[23Dec2024 20:07:45.508] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mainyorick lost connection: Disconnected
-[23Dec2024 20:07:45.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mainyorick left the game
+[24Dec2024 22:19:38.452] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 12 recipes
+[24Dec2024 22:19:38.755] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2531 advancements
+[24Dec2024 22:19:40.918] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[24Dec2024 22:19:40.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[24Dec2024 22:19:40.919] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[24Dec2024 22:19:40.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[24Dec2024 22:19:41.167] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[24Dec2024 22:19:41.225] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[24Dec2024 22:19:41.349] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[24Dec2024 22:19:41.349] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[24Dec2024 22:19:41.350] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[24Dec2024 22:19:41.350] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[24Dec2024 22:19:41.656] [Server thread/INFO] [portb.configlib.ConfigLib/]: Reading stacksize ruleset
+[24Dec2024 22:19:41.669] [Server thread/INFO] [Framework/]: Loading server configs...
+[24Dec2024 22:19:41.669] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Starting config file watcher
+[24Dec2024 22:19:42.483] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[24Dec2024 22:19:42.484] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[24Dec2024 22:19:42.486] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[24Dec2024 22:19:50.264] [Server thread/INFO] [net.regions_unexplored.RegionsUnexploredMod/]: Loading dimension "minecraft:the_nether" with biome source: "minecraft:multi_noise".
+[24Dec2024 22:19:50.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[24Dec2024 22:19:57.065] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.067] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.069] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.071] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.074] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.078] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.082] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.105] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.109] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.113] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.119] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.122] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:57.126] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:58.225] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:58.229] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:58.387] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:58.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:59.839] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:19:59.840] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:00.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:00.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:01.496] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:02.170] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:02.485] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:02.799] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:03.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[24Dec2024 22:20:04.153] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
+[24Dec2024 22:20:04.311] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:04.885] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:05.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:06.101] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:06.320] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:06.884] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:07.289] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:07.862] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:08.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:08.833] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:09.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:09.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:10.272] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:10.789] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:11.280] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[24Dec2024 22:20:11.870] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[24Dec2024 22:20:12.313] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[24Dec2024 22:20:12.853] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 24%
+[24Dec2024 22:20:13.343] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[24Dec2024 22:20:13.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[24Dec2024 22:20:14.270] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 27%
+[24Dec2024 22:20:14.785] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 28%
+[24Dec2024 22:20:15.338] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:15.831] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:16.284] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:16.780] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:17.472] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:17.797] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:18.318] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:18.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 30%
+[24Dec2024 22:20:19.290] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 39%
+[24Dec2024 22:20:19.769] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 40%
+[24Dec2024 22:20:20.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[24Dec2024 22:20:20.844] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 42%
+[24Dec2024 22:20:21.303] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 43%
+[24Dec2024 22:20:21.804] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 45%
+[24Dec2024 22:20:22.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 46%
+[24Dec2024 22:20:22.794] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:23.269] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:23.771] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:24.273] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:24.877] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:25.407] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:25.779] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:26.344] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:26.776] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:27.297] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:27.800] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:28.322] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:28.774] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:29.274] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:29.782] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:30.268] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:30.778] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:31.325] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:31.798] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:32.316] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:32.907] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[24Dec2024 22:20:33.305] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 48%
+[24Dec2024 22:20:33.768] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 85%
+[24Dec2024 22:20:34.293] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[24Dec2024 22:20:34.776] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[24Dec2024 22:20:35.306] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[24Dec2024 22:20:35.897] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
+[24Dec2024 22:20:36.277] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[24Dec2024 22:20:36.772] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[24Dec2024 22:20:37.300] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[24Dec2024 22:20:37.835] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 89%
+[24Dec2024 22:20:38.303] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[24Dec2024 22:20:38.771] [Worker-Main-8/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 96%
+[24Dec2024 22:20:39.413] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 49146 ms
+[24Dec2024 22:20:39.415] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (58.046s)! For help, type "help"
+[24Dec2024 22:20:39.484] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[24Dec2024 22:20:42.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2921ms or 58 ticks behind
+[24Dec2024 22:21:04.385] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6882ms or 137 ticks behind
+[24Dec2024 22:23:21.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kayncer[/100.73.159.42:60056] logged in with entity id 342 at (-162.95040456848963, 136.0, 775.4926163567342)
+[24Dec2024 22:23:22.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kayncer joined the game
+[24Dec2024 22:23:28.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[24Dec2024 22:23:49.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/360, l='ServerLevel[world]', x=-119.12, y=101.00, z=766.69] died: hacie was slain by Beast Patient
+[24Dec2024 22:23:51.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7710ms or 154 ticks behind
+[24Dec2024 22:24:07.149] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/354, l='ServerLevel[world]', x=-64.88, y=84.00, z=722.55] died: Pajera was blown up by Creeper
+[24Dec2024 22:24:14.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8001ms or 160 ticks behind
+[24Dec2024 22:24:17.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kayncer: Set own game mode to Creative Mode]
+[24Dec2024 22:24:34.215] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4862ms or 97 ticks behind
+[24Dec2024 22:24:53.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4387ms or 87 ticks behind
+[24Dec2024 22:25:14.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6222ms or 124 ticks behind
+[24Dec2024 22:25:37.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7526ms or 150 ticks behind
+[24Dec2024 22:25:56.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4510ms or 90 ticks behind
+[24Dec2024 22:26:18.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6638ms or 132 ticks behind
+[24Dec2024 22:26:37.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4614ms or 92 ticks behind
+[24Dec2024 22:26:52.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 8.130003654499774,-5.5562531212573845,1.9502222156638709
+[24Dec2024 22:27:04.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11778ms or 235 ticks behind
+[24Dec2024 22:27:29.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kayncer moved too quickly! 8.118174246021567,0.0,-5.847231505831019
+[24Dec2024 22:27:35.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15761ms or 315 ticks behind
+[24Dec2024 22:27:59.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9425ms or 188 ticks behind
+[24Dec2024 22:28:27.230] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12377ms or 247 ticks behind
