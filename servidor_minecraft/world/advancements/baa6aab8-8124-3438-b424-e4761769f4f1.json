@@ -23,11 +23,14 @@
       "minecraft:beach": "2024-12-22 17:04:58 +0000",
       "minecraft:dark_forest": "2024-12-22 04:02:06 +0000",
       "minecraft:river": "2024-12-22 04:04:45 +0000",
+      "minecraft:dripstone_caves": "2024-12-25 00:00:33 +0000",
       "minecraft:swamp": "2024-12-22 03:53:17 +0000",
       "minecraft:forest": "2024-12-22 03:57:37 +0000",
       "minecraft:desert": "2024-12-23 19:26:22 +0000",
       "minecraft:windswept_forest": "2024-12-22 04:01:24 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-12-22 17:18:26 +0000"
+      "minecraft:old_growth_spruce_taiga": "2024-12-22 17:18:26 +0000",
+      "minecraft:frozen_peaks": "2024-12-25 00:00:52 +0000",
+      "minecraft:deep_dark": "2024-12-25 00:01:12 +0000"
     },
     "done": false
   },
@@ -2892,9 +2895,9 @@
     },
     "done": true
   },
-  "jeg:tactical_stock": {
+  "jeg:extended_mag": {
     "criteria": {
-      "Item": "2024-12-24 23:42:47 +0000"
+      "Item": "2024-12-24 23:42:34 +0000"
     },
     "done": true
   },
@@ -2904,9 +2907,51 @@
     },
     "done": true
   },
-  "jeg:extended_mag": {
+  "jeg:tactical_stock": {
     "criteria": {
-      "Item": "2024-12-24 23:42:34 +0000"
+      "Item": "2024-12-24 23:42:47 +0000"
+    },
+    "done": true
+  },
+  "jeg:holy_shotgun": {
+    "criteria": {
+      "Item": "2024-12-24 23:55:53 +0000"
+    },
+    "done": true
+  },
+  "jeg:atlantean_spear": {
+    "criteria": {
+      "Item": "2024-12-24 23:56:10 +0000"
+    },
+    "done": true
+  },
+  "jeg:typhoonee": {
+    "criteria": {
+      "Item": "2024-12-24 23:56:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-25 00:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-25 00:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2024-12-25 00:02:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-25 00:03:27 +0000"
     },
     "done": true
   },
