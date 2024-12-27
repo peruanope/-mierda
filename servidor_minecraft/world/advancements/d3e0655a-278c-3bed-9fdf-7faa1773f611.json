@@ -604,6 +604,7 @@
       "minecraft:skeleton": "2024-12-22 04:03:01 +0000",
       "minecraft:spider": "2024-12-22 04:00:37 +0000",
       "minecraft:creeper": "2024-12-23 03:07:22 +0000",
+      "minecraft:zombified_piglin": "2024-12-27 01:51:09 +0000",
       "minecraft:wither_skeleton": "2024-12-23 04:31:40 +0000",
       "minecraft:cave_spider": "2024-12-23 19:47:15 +0000",
       "minecraft:enderman": "2024-12-23 19:03:50 +0000",
@@ -3472,6 +3473,12 @@
   "jeg:blueprint_workbench": {
     "criteria": {
       "Item": "2024-12-25 00:52:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:light_snack": {
+    "criteria": {
+      "earlight": "2024-12-27 01:51:53 +0000"
     },
     "done": true
   },
